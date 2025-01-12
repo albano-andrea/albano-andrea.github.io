@@ -15,5 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Reflections to blabla
+Preprints
 ---
+  * A. Albano, M. Mazzotta, P. Stefanelli: Reflections to set-theoretic solutions of the Yang-Baxter equation, [arXiv:2405.19105](https://arxiv.org/abs/2405.19105).  
