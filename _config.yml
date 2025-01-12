@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Andrea Albano"
 title_separator          : "-"
 name                     : &name "Andrea Albano"
-description              : &description "Candidate Phd student in Mathematics & Computer Science at University of Salento"
+description              : &description "Phd student in Mathematics and IT at University of Salento"
 url                      : https://albano-andrea.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "albano-andrea/albano-andrea.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Andrea Albano"
   avatar           : "profile.jpeg"
-  bio              : "Candidate Phd student in Mathematics & Computer Science at University of Salento"
+  bio              : "Phd student in Mathematics and IT at University of Salento"
   location         : 
   employer         :
   pubmed           : 
@@ -176,13 +176,13 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
