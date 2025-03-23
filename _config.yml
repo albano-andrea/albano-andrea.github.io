@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Andrea Albano"
   avatar           : "profile.jpeg"
-  bio              : "Phd student in Mathematics and IT at University of Salento"
+  bio              : "Phd student in Mathematics and Computer Science @ University of Salento"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
   email            : "andrea.albano@unisalento.it"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Andrea-Albano-3/research"
   uri              :
   bitbucket        :
   codepen          :
