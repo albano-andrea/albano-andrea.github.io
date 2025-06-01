@@ -18,14 +18,14 @@ author_profile: true
 Conference Talks
 ---
 * **Rack Automorphisms and Reflections to
-Solutions of the Yang-Baxter Equation** - [*AGTA Workshop – Reinhold Baer Prize*](https://www.advgrouptheory.com/wrbp2024/index.html), University of Naples (Naples), 07-08 October 2024.
+Solutions of the Yang--Baxter Equation** - [*AGTA Workshop – Reinhold Baer Prize*](https://www.advgrouptheory.com/wrbp2024/index.html), University of Naples (Naples), 07-08 October 2024.
 
 Seminars
 ---
-* **The algebra of conjugation: from knots to the Yang-Baxter equation** - [*InformAlgebra*](https://sites.google.com/unisalento.it/informalgebra/), University of Salento (Lecce), 14 November 2024.
+* **The algebra of conjugation: from knots to the Yang--Baxter equation** - [*InformAlgebra*](https://sites.google.com/unisalento.it/informalgebra/), University of Salento (Lecce), 14 November 2024.
 
 Poster presentations
 ---
 * **Solutions to the Set Theoretic Reflection Equation** - [*Groups & Algebras in Bicocca for Young algebraists*](https://staff.matapp.unimib.it/~/gaby/gaby2024/index.html), University of Milano-Bicocca (Milan), 17-21 June 2024.
 
-* **Set-theoretic solutions of the Yang–-Baxter equation on g-digroups** - [*Solving the Yang-Baxter Equation: New Frontiers and Approaches*](https://sites.google.com/unisalento.it/levico-ybe-2025?), Levico Terme (Trento), 04-08 May 2025.
+* **Set-theoretic solutions of the Yang--Baxter equation on g-digroups** - [*Solving the Yang--Baxter Equation: New Frontiers and Approaches*](https://sites.google.com/unisalento.it/levico-ybe-2025?), Levico Terme (Trento), 04-08 May 2025.
