@@ -14,4 +14,4 @@ My research mainly revolves around the study of solutions to the set-theoretical
 
 **You can find me soon...**
 
-June 23-28 2025 @ [_Advances in Group Theory and Applications 2025_](https://www.advgrouptheory.com/agta2025/), Naples, Italy.
+October 24, 2025 @ [_Algebra and Logic Seminar_](https://science.du.edu/math/colloquia-and-seminars), Denver University, Colorado.
