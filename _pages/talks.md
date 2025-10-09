@@ -17,8 +17,9 @@ author_profile: true
 
 Conference Talks
 ---
-* **Rack Automorphisms and Reflections to
-Solutions of the Yang--Baxter Equation** - [*AGTA Workshop – Reinhold Baer Prize*](https://www.advgrouptheory.com/wrbp2024/index.html), University of Naples (Naples), 07-08 October 2024.
+* **Set-theoretic solutions of the Yang–Baxter equation associated with g-digroups** - [*Advances in Group Theory and Applications 2025*](https://www.advgrouptheory.com/agta2025/), Università degli Studi di Napoli “Federico II” (Naples), 23-28 June 2025.
+
+* **Rack Automorphisms and Reflections to Solutions of the Yang--Baxter Equation** - [*AGTA Workshop – Reinhold Baer Prize*](https://www.advgrouptheory.com/wrbp2024/index.html), Università degli Studi di Napoli “Federico II” (Naples), 07-08 October 2024.
 
 Seminars
 ---
