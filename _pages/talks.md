@@ -25,6 +25,10 @@ Seminars
 ---
 * **The algebra of conjugation: from knots to the Yang--Baxter equation** - [*InformAlgebra*](https://sites.google.com/unisalento.it/informalgebra/), University of Salento (Lecce), 14 November 2024.
 
+* **Set-theoretic solutions of the Yang—Baxter equation and generalized digroups** - [*Algebra and Logic Seminar*](https://science.du.edu/math/colloquia-and-seminars), University of Denver (Colorado, USA), 24 October 2025.
+
+* **Set-theoretic solutions of the Yang--Baxter equation and their reflections** - [*Panglobal Algebra and Logic Seminar*](https://math.colorado.edu/algebralogic/about.html), University of Colorado, Boulder (USA), 04 November 2025.
+
 Poster presentations
 ---
 * **Solutions to the Set Theoretic Reflection Equation** - [*Groups & Algebras in Bicocca for Young algebraists*](https://staff.matapp.unimib.it/~/gaby/gaby2024/index.html), University of Milano-Bicocca (Milan), 17-21 June 2024.
