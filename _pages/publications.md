@@ -15,8 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-[1] A.A., M. Mazzotta and P. Stefanelli, _Reflections to set-theoretic solutions of the Yang--Baxter equation_, J. Algebra 676 (2025), 106-138.
+[1] A.A. and P. Stefanelli, _Generalized digroups, di-skew braces and solutions of the set-theoretic Yang–Baxter equation._ Semigroup Forum (2025). [[DOI]](https://doi.org/10.1007/s00233-025-10606-2).
 
-Preprints
----
-  * A. A., P. Stefanelli, _Generalized digroups, di-skew braces and solutions of the set-theoretic Yang--Baxter equation_, [[arXiv:2505.15387]](https://arxiv.org/abs/2505.15387).  
+[2] A.A., M. Mazzotta and P. Stefanelli, _Reflections to set-theoretic solutions of the Yang--Baxter equation_, J. Algebra 676 (2025), 106-138. [[DOI]]( 	
+https://doi.org/10.1016/j.jalgebra.2025.03.034).
