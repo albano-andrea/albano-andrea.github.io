@@ -23,6 +23,8 @@ Conference Talks
 
 Seminars
 ---
+* **Set-theoretic solutions of the Yang-Baxter equation and di-skew braces** - [*European Non-Associative Algebra Seminar*](https://sites.google.com/view/enaaw/home?), 23 March 2026.
+
 * **Set-theoretic solutions of the Yang--Baxter equation and their reflections** - [*Panglobal Algebra and Logic Seminar*](https://math.colorado.edu/algebralogic/about.html), University of Colorado, Boulder (USA), 04 November 2025.
 
 * **Set-theoretic solutions of the Yang—Baxter equation and generalized digroups** - [*Algebra and Logic Seminar*](https://science.du.edu/math/colloquia-and-seminars), University of Denver (Colorado, USA), 24 October 2025.  
