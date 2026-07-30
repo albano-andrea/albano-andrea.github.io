@@ -21,4 +21,9 @@ author_profile: true
 https://doi.org/10.1016/j.jalgebra.2025.03.034).
 
 **Preprints**
+
 [a] A.A., P. Stefanelli, _Action accessibility in the variety of skew braces_, arXiv:2605.30097 [[link]](https://doi.org/10.48550/arXiv.2605.30097).
+
+[b] A.A, A. Facchini, M. Mazzotta, P. Stefanelli, _Right groups, left quasigroups, and right heaps_, arXiv:2606.09224 [[link]](https://doi.org/10.48550/arXiv.2606.09224).
+
+[c] A.A, A. Facchini, M. Mazzotta, P. Stefanelli, _Right groups and the set-theoretic Yang-Baxter equation_, arXiv:2605.25660 [[link]](https://doi.org/10.48550/arXiv.2605.25660).
