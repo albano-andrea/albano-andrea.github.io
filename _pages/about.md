@@ -12,4 +12,4 @@ Welcome! I am a third-year PhD student in Mathematics and Computer Science at th
 
 My research mainly revolves around the study of solutions to the set-theoretical *Yang--Baxter equation* and to the associated set-theoretical *reflection equation*, conducted through the lens of various related algebraic structures - most importantly skew braces (and their generalizations), racks and quandles.
 
-**You will find me @** XI International Workshop on Non-Associative Algebras in Bari, 13-17 April 2026, Bari (Italy). [Link](https://sites.google.com/view/nonassociativebari2026).
+**You will find me @** Department of Mathematics and Physics in Lecce :)
